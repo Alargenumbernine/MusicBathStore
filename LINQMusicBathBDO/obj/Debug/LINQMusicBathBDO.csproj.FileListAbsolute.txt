@@ -1,0 +1,19 @@
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathBDO\bin\Debug\LINQMusicBathBDO.dll
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathBDO\bin\Debug\LINQMusicBathBDO.pdb
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathBDO\obj\Debug\LINQMusicBathBDO.csprojResolveAssemblyReference.cache
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathBDO\obj\Debug\LINQMusicBathBDO.dll
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathBDO\obj\Debug\LINQMusicBathBDO.pdb
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathBDO\bin\Debug\LINQMusicBathBDO.dll
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathBDO\bin\Debug\LINQMusicBathBDO.pdb
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathBDO\obj\Debug\LINQMusicBathBDO.dll
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathBDO\obj\Debug\LINQMusicBathBDO.pdb
+C:\MusicPlayer\LINQMusicBathBDO\bin\Debug\LINQMusicBathBDO.dll
+C:\MusicPlayer\LINQMusicBathBDO\bin\Debug\LINQMusicBathBDO.pdb
+C:\MusicPlayer\LINQMusicBathBDO\obj\Debug\LINQMusicBathBDO.csprojResolveAssemblyReference.cache
+C:\MusicPlayer\LINQMusicBathBDO\obj\Debug\LINQMusicBathBDO.dll
+C:\MusicPlayer\LINQMusicBathBDO\obj\Debug\LINQMusicBathBDO.pdb
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathBDO\bin\Debug\LINQMusicBathBDO.dll
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathBDO\bin\Debug\LINQMusicBathBDO.pdb
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathBDO\obj\Debug\LINQMusicBathBDO.csprojResolveAssemblyReference.cache
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathBDO\obj\Debug\LINQMusicBathBDO.dll
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathBDO\obj\Debug\LINQMusicBathBDO.pdb
