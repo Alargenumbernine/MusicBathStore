@@ -1,0 +1,48 @@
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathDAL\obj\Debug\LINQMusicBathDAL.csprojResolveAssemblyReference.cache
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathDAL\bin\Debug\LINQMusicBathDAL.dll.config
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathDAL\bin\Debug\LINQMusicBathDAL.dll
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathDAL\bin\Debug\LINQMusicBathDAL.pdb
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathDAL\bin\Debug\EntityFramework.dll
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathDAL\bin\Debug\LINQMusicBathBDO.dll
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathDAL\bin\Debug\LINQMusicBathBDO.pdb
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathDAL\bin\Debug\EntityFramework.xml
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathDAL\obj\Debug\LINQMusicBathDAL.dll
+C:\Users\Alper\Documents\Visual Studio 2015\Projects\LINQMusicBath\LINQMusicBathDAL\obj\Debug\LINQMusicBathDAL.pdb
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathDAL\bin\Debug\LINQMusicBathDAL.dll.config
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathDAL\bin\Debug\LINQMusicBathDAL.dll
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathDAL\bin\Debug\LINQMusicBathDAL.pdb
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathDAL\bin\Debug\EntityFramework.dll
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathDAL\bin\Debug\LINQMusicBathBDO.dll
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathDAL\bin\Debug\LINQMusicBathBDO.pdb
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathDAL\bin\Debug\EntityFramework.xml
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathDAL\obj\Debug\LINQMusicBathDAL.csprojResolveAssemblyReference.cache
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathDAL\obj\Debug\LINQMusicBathDAL.dll
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathDAL\obj\Debug\LINQMusicBathDAL.pdb
+C:\MusicPlayer\LINQMusicBathDAL\obj\Debug\LINQMusicBathDAL.csprojResolveAssemblyReference.cache
+C:\MusicPlayer\LINQMusicBathDAL\obj\Debug\LINQMusicBathDAL.dll
+C:\MusicPlayer\LINQMusicBathDAL\obj\Debug\LINQMusicBathDAL.pdb
+C:\MusicPlayer\LINQMusicBathDAL\bin\Debug\LINQMusicBathDAL.dll.config
+C:\MusicPlayer\LINQMusicBathDAL\bin\Debug\LINQMusicBathDAL.dll
+C:\MusicPlayer\LINQMusicBathDAL\bin\Debug\LINQMusicBathDAL.pdb
+C:\MusicPlayer\LINQMusicBathDAL\bin\Debug\EntityFramework.dll
+C:\MusicPlayer\LINQMusicBathDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\MusicPlayer\LINQMusicBathDAL\bin\Debug\LINQMusicBathBDO.dll
+C:\MusicPlayer\LINQMusicBathDAL\bin\Debug\LINQMusicBathBDO.pdb
+C:\MusicPlayer\LINQMusicBathDAL\bin\Debug\EntityFramework.xml
+C:\MusicPlayer\LINQMusicBathDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathDAL\bin\Debug\LINQMusicBathDAL.dll.config
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathDAL\bin\Debug\LINQMusicBathDAL.dll
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathDAL\bin\Debug\LINQMusicBathDAL.pdb
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathDAL\bin\Debug\EntityFramework.dll
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathDAL\bin\Debug\LINQMusicBathBDO.dll
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathDAL\bin\Debug\LINQMusicBathBDO.pdb
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathDAL\bin\Debug\EntityFramework.xml
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathDAL\obj\Debug\LINQMusicBathDAL.csprojResolveAssemblyReference.cache
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathDAL\obj\Debug\LINQMusicBathDAL.dll
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathDAL\obj\Debug\LINQMusicBathDAL.pdb
