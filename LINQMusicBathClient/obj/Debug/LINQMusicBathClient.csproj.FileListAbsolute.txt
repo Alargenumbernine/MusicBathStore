@@ -1,0 +1,67 @@
+C:\Users\Alper\documents\visual studio 2015\Projects\LINQMusicBath\LINQMusicBathClient\bin\Debug\LINQMusicBathClient.exe.config
+C:\Users\Alper\documents\visual studio 2015\Projects\LINQMusicBath\LINQMusicBathClient\bin\Debug\LINQMusicBathClient.exe
+C:\Users\Alper\documents\visual studio 2015\Projects\LINQMusicBath\LINQMusicBathClient\bin\Debug\LINQMusicBathClient.pdb
+C:\Users\Alper\documents\visual studio 2015\Projects\LINQMusicBath\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.csprojResolveAssemblyReference.cache
+C:\Users\Alper\documents\visual studio 2015\Projects\LINQMusicBath\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.Properties.Resources.resources
+C:\Users\Alper\documents\visual studio 2015\Projects\LINQMusicBath\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.csproj.GenerateResource.Cache
+C:\Users\Alper\documents\visual studio 2015\Projects\LINQMusicBath\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.exe
+C:\Users\Alper\documents\visual studio 2015\Projects\LINQMusicBath\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.pdb
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\bin\Debug\LINQMusicBathClient.exe.config
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.exe
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.pdb
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\bin\Debug\LINQMusicBathClient.exe
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\bin\Debug\LINQMusicBathClient.pdb
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.csprojResolveAssemblyReference.cache
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.Form1.resources
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.Properties.Resources.resources
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.csproj.GenerateResource.Cache
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\bin\Debug\EntityFramework.dll
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\bin\Debug\EntityFramework.xml
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.Form2.resources
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.Form3.resources
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\bin\Debug\Interop.WMPLib.dll
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\Interop.WMPLib.dll
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.csproj.ResolveComReference.cache
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.Form4.resources
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.Form5.resources
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.Form7.resources
+C:\Users\Aurelijus\Source\Repos\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.SongToPlaylist.resources
+C:\MusicPlayer\LINQMusicBathClient\bin\Debug\LINQMusicBathClient.exe.config
+C:\MusicPlayer\LINQMusicBathClient\bin\Debug\LINQMusicBathClient.exe
+C:\MusicPlayer\LINQMusicBathClient\bin\Debug\LINQMusicBathClient.pdb
+C:\MusicPlayer\LINQMusicBathClient\bin\Debug\EntityFramework.dll
+C:\MusicPlayer\LINQMusicBathClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\MusicPlayer\LINQMusicBathClient\bin\Debug\EntityFramework.xml
+C:\MusicPlayer\LINQMusicBathClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\MusicPlayer\LINQMusicBathClient\bin\Debug\Interop.WMPLib.dll
+C:\MusicPlayer\LINQMusicBathClient\bin\Debug\AxInterop.WMPLib.dll
+C:\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.csprojResolveAssemblyReference.cache
+C:\MusicPlayer\LINQMusicBathClient\obj\Debug\Interop.WMPLib.dll
+C:\MusicPlayer\LINQMusicBathClient\obj\Debug\AxInterop.WMPLib.dll
+C:\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.csproj.ResolveComReference.cache
+C:\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.Properties.Resources.resources
+C:\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.csproj.GenerateResource.Cache
+C:\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.exe
+C:\MusicPlayer\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.pdb
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\bin\Debug\LINQMusicBathClient.exe.config
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\bin\Debug\LINQMusicBathClient.exe
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\bin\Debug\LINQMusicBathClient.pdb
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\bin\Debug\EntityFramework.dll
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\bin\Debug\EntityFramework.xml
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\bin\Debug\Interop.WMPLib.dll
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\bin\Debug\AxInterop.WMPLib.dll
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.csprojResolveAssemblyReference.cache
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\obj\Debug\Interop.WMPLib.dll
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\obj\Debug\AxInterop.WMPLib.dll
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.csproj.ResolveComReference.cache
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.Properties.Resources.resources
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.csproj.GenerateResource.Cache
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.exe
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.pdb
+C:\MusicBathStore\MusicPlayerForProduct\LINQMusicBathClient\obj\Debug\LINQMusicBathClient.Form1.resources
