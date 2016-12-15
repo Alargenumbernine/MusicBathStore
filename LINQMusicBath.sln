@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQMusicBathClient", "LINQ
 		{F0029D88-23DB-41DC-B49B-8792918CC654} = {F0029D88-23DB-41DC-B49B-8792918CC654}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicBathWebApp", "MusicBathWebApp\MusicBathWebApp.csproj", "{EA19652E-06ED-4883-A0AE-742FDB621D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicBathWebApp.Tests", "MusicBathWebApp.Tests\MusicBathWebApp.Tests.csproj", "{2221D323-944B-4524-9FB2-940F0AF9F2EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +46,14 @@ Global
 		{9F3AF511-0FC4-4EF2-AEC5-F150A55D60F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F3AF511-0FC4-4EF2-AEC5-F150A55D60F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F3AF511-0FC4-4EF2-AEC5-F150A55D60F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA19652E-06ED-4883-A0AE-742FDB621D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA19652E-06ED-4883-A0AE-742FDB621D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA19652E-06ED-4883-A0AE-742FDB621D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA19652E-06ED-4883-A0AE-742FDB621D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2221D323-944B-4524-9FB2-940F0AF9F2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2221D323-944B-4524-9FB2-940F0AF9F2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2221D323-944B-4524-9FB2-940F0AF9F2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2221D323-944B-4524-9FB2-940F0AF9F2EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
